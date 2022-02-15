@@ -84,6 +84,10 @@ section {
 }
 /* Hero style end */
 
+.hero-text {
+  color: #fce138;
+}
+
 /* Hero form style start */
 .hero-form {
   color: #024e76;
